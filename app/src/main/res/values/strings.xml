@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment_Netclan</string>
+    <string name="detail1">If you want  to network with the community, use other services on the app, chat, make free audio and video calls, join as Personal User</string>
+    <string name="detail2">If you are any kind of service provider and want to sell your services to the community, join as Business User</string>
+    <string name="detail3">If you are a merchant, a shop,a restaurant or any establishment and wants to sell your goods and services
+    to the community, join as Merchant User</string>
+    <string name="disc_1">By logging in, you agree with our </string>
+    <string name="disc_2">Learn how we process your data in our </string>
+    <string name="disc_3">You can also go through the </string>
+    <string name="term"><u>Terms</u></string>
+    <string name="privacy"><u>Privacy Policy</u></string>
+    <string name="disclaimer"><u>Disclaimer</u></string>
+</resources>
